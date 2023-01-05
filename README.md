@@ -16,6 +16,6 @@ EFI OpenCore Folders
 
 * CPU Vrm Compensation to Level 5
 
-### Mac OS Monterey and Ventura EFI OpenCore loader 0.8.3. Clover 5149
+### Mac OS Monterey and Ventura EFI OpenCore loader 0.8.8. Clover 5150
 
-* All mac os futures are working including DRM playback and sleep/wake S3
+* All mac os futures are working including DRM playback and sleep/wake S3 and FileVault2
